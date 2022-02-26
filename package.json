@@ -1,0 +1,14 @@
+{
+  "name": "node-bot",
+  "version": "0.0.1",
+  "description": "simple bot node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Nicolas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
